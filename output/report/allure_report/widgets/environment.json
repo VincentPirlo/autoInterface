@@ -1,0 +1,19 @@
+[ {
+  "values" : [ "win10" ],
+  "name" : "systemVersion"
+}, {
+  "values" : [ "Chrome" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "113.0.5672.127" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "3.7.4" ],
+  "name" : "pythonVersion"
+}, {
+  "values" : [ "autoTest" ],
+  "name" : "projectName"
+}, {
+  "values" : [ "makexi" ],
+  "name" : "author"
+} ]

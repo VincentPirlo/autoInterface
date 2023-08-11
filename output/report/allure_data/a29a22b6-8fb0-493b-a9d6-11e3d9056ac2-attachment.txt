@@ -1,0 +1,3 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1007 Starting new HTTPS connection (1): petstore3.swagger.io:443
+DEBUG    urllib3.connectionpool:connectionpool.py:465 https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+INFO     root:test_swagger_allure.py:50 "POST https://petstore3.swagger.io/api/v3/store/order 200"

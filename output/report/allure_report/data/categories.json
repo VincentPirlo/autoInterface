@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 200 == 500\n +  where 200 = <Response [200]>.status_code",
+      "children" : [ {
+        "name" : "3: get by id",
+        "uid" : "4e93f122cd4b91c7",
+        "parentUid" : "a80967938b4674994a632217f0eb5b59",
+        "status" : "failed",
+        "time" : {
+          "start" : 1685527870067,
+          "stop" : 1685527871047,
+          "duration" : 980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a80967938b4674994a632217f0eb5b59"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

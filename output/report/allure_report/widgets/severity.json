@@ -1,0 +1,31 @@
+[ {
+  "uid" : "4e93f122cd4b91c7",
+  "name" : "3: get by id",
+  "time" : {
+    "start" : 1685527870067,
+    "stop" : 1685527871047,
+    "duration" : 980
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "152cc2b5f630be11",
+  "name" : "1: get inventory",
+  "time" : {
+    "start" : 1685527867820,
+    "stop" : 1685527869044,
+    "duration" : 1224
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "4ca2edccbcd5ee04",
+  "name" : "2: post store order",
+  "time" : {
+    "start" : 1685527869047,
+    "stop" : 1685527870061,
+    "duration" : 1014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,51 @@
+2023-05-29 17:08:11,503.503 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:08:12,368.368 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:08:12,378.378 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:08:13,242.242 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:09:10,401.401 [INFO] [test_swagger_allure.py::test_get_inventory:28] "POST https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-29 17:09:10,406.406 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:09:11,325.325 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:09:11,335.335 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:09:12,278.278 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:10:03,264.264 [INFO] [test_swagger_allure.py::test_get_inventory:28] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-29 17:10:03,272.272 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:10:04,179.179 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:10:04,189.189 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:10:05,045.045 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:10:53,266.266 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:10:54,214.214 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:10:54,223.223 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:10:55,163.163 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:13:25,797.797 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:13:26,692.692 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:13:26,701.701 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:13:27,578.578 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:14:30,397.397 [INFO] [test_swagger_allure.py::test_get_inventory:28] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-29 17:14:30,402.402 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:14:31,278.278 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:14:31,287.287 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:14:32,226.226 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:20:54,942.942 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:20:55,924.924 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/inventory HTTP/1.1" 200 43
+2023-05-29 17:20:55,926.926 [INFO] [test_swagger_allure.py::test_get_inventory:28] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-29 17:20:55,932.932 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:20:56,917.917 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 17:20:56,920.920 [INFO] [test_swagger_allure.py::test_post_order:48] "POST https://petstore3.swagger.io/api/v3/store/order 200"
+2023-05-29 17:20:56,929.929 [DEBUG] [connectionpool.py::_new_conn:1007] Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 17:20:57,870.870 [DEBUG] [connectionpool.py::_make_request:465] https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116
+2023-05-29 17:20:57,871.871 [INFO] [test_swagger_allure.py::test_get_store_order:60] "GET https://petstore3.swagger.io/api/v3/store/order/10 200"
+2023-05-29 20:47:32,836.836 [INFO] [test_swagger_allure.py::test_get_inventory:28] "GET https://petstore3.swagger.io/api/v3/store/inventory 500"
+2023-05-29 20:47:33,752.752 [INFO] [test_swagger_allure.py::test_post_order:48] "POST https://petstore3.swagger.io/api/v3/store/order 200"
+2023-05-29 20:47:34,593.593 [INFO] [test_swagger_allure.py::test_get_store_order:60] "GET https://petstore3.swagger.io/api/v3/store/order/10 200"
+2023-05-30 09:36:51,430.430 [INFO] [test_swagger_allure.py::test_get_inventory:28] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-30 09:36:52,367.367 [INFO] [test_swagger_allure.py::test_post_order:48] "POST https://petstore3.swagger.io/api/v3/store/order 200"
+2023-05-30 09:36:53,321.321 [INFO] [test_swagger_allure.py::test_get_store_order:60] "GET https://petstore3.swagger.io/api/v3/store/order/10 200"
+2023-05-31 11:11:19,709.709 [INFO] [test_swagger_allure.py::test_get_inventory:28] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-31 11:11:20,617.617 [INFO] [test_swagger_allure.py::test_post_order:49] "POST https://petstore3.swagger.io/api/v3/store/order 200"
+2023-05-31 11:11:21,460.460 [INFO] [test_swagger_allure.py::test_get_store_order:61] "GET https://petstore3.swagger.io/api/v3/store/order/10 200"
+2023-05-31 11:13:47,259.259 [INFO] [test_swagger_allure.py::test_get_inventory:29] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-31 11:13:48,156.156 [INFO] [test_swagger_allure.py::test_post_order:50] "POST https://petstore3.swagger.io/api/v3/store/order 200"
+2023-05-31 11:13:49,062.062 [INFO] [test_swagger_allure.py::test_get_store_order:63] "GET https://petstore3.swagger.io/api/v3/store/order/10 200"
+2023-05-31 18:11:09,042.042 [INFO] [test_swagger_allure.py::test_get_inventory:29] "GET https://petstore3.swagger.io/api/v3/store/inventory 200"
+2023-05-31 18:11:10,061.061 [INFO] [test_swagger_allure.py::test_post_order:50] "POST https://petstore3.swagger.io/api/v3/store/order 200"
+2023-05-31 18:11:11,044.044 [INFO] [test_swagger_allure.py::test_get_store_order:63] "GET https://petstore3.swagger.io/api/v3/store/order/10 200"

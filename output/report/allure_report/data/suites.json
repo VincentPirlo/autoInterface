@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_cases",
+    "children" : [ {
+      "name" : "test_swagger_allure",
+      "children" : [ {
+        "name" : "TestSwagger",
+        "children" : [ {
+          "name" : "1: get inventory",
+          "uid" : "152cc2b5f630be11",
+          "parentUid" : "b95314db9efe3c96881d8bc149aa97b3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685527867820,
+            "stop" : 1685527869044,
+            "duration" : 1224
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "2: post store order",
+          "uid" : "4ca2edccbcd5ee04",
+          "parentUid" : "b95314db9efe3c96881d8bc149aa97b3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1685527869047,
+            "stop" : 1685527870061,
+            "duration" : 1014
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "3: get by id",
+          "uid" : "4e93f122cd4b91c7",
+          "parentUid" : "b95314db9efe3c96881d8bc149aa97b3",
+          "status" : "failed",
+          "time" : {
+            "start" : 1685527870067,
+            "stop" : 1685527871047,
+            "duration" : 980
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b95314db9efe3c96881d8bc149aa97b3"
+      } ],
+      "uid" : "a8e69bc09e4193645cbe132153b4bbc6"
+    } ],
+    "uid" : "10075452c99ff4a1bfbce955ca922247"
+  } ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "feature 1",
+    "children" : [ {
+      "name" : "story 1",
+      "children" : [ {
+        "name" : "1: get inventory",
+        "uid" : "152cc2b5f630be11",
+        "parentUid" : "6137f95bba9b16b2a69400f6a3e4632d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1685527867820,
+          "stop" : 1685527869044,
+          "duration" : 1224
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6137f95bba9b16b2a69400f6a3e4632d"
+    } ],
+    "uid" : "d2c417bedf49ddb498e7e597f0d65cdc"
+  }, {
+    "name" : "feature 2",
+    "children" : [ {
+      "name" : "story 2",
+      "children" : [ {
+        "name" : "2: post store order",
+        "uid" : "4ca2edccbcd5ee04",
+        "parentUid" : "08cb549b50d9af3a6c42f3977bc5346f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1685527869047,
+          "stop" : 1685527870061,
+          "duration" : 1014
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08cb549b50d9af3a6c42f3977bc5346f"
+    } ],
+    "uid" : "bb883ca855d47eea15b770f867034e5f"
+  }, {
+    "name" : "feature 3",
+    "children" : [ {
+      "name" : "story 3",
+      "children" : [ {
+        "name" : "3: get by id",
+        "uid" : "4e93f122cd4b91c7",
+        "parentUid" : "ee01703ebf5a4a377ee17829968f55df",
+        "status" : "failed",
+        "time" : {
+          "start" : 1685527870067,
+          "stop" : 1685527871047,
+          "duration" : 980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee01703ebf5a4a377ee17829968f55df"
+    } ],
+    "uid" : "aa006897511d3033c63cae2bf69853a4"
+  } ]
+}

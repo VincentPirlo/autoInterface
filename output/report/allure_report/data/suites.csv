@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 31 18:11:09 CST 2023","Wed May 31 18:11:10 CST 2023","1014","test_cases","test_swagger_allure","TestSwagger","","","2: post store order","这是post store order"
+"failed","Wed May 31 18:11:10 CST 2023","Wed May 31 18:11:11 CST 2023","980","test_cases","test_swagger_allure","TestSwagger","","","3: get by id","这是通过store id获取store order"
+"passed","Wed May 31 18:11:07 CST 2023","Wed May 31 18:11:09 CST 2023","1224","test_cases","test_swagger_allure","TestSwagger","","","1: get inventory","这是get inventory"

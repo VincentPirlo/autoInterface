@@ -1,0 +1,60 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_cases.test_swagger_allure",
+    "children" : [ {
+      "name" : "1: get inventory",
+      "uid" : "152cc2b5f630be11",
+      "parentUid" : "30f382429fe0c8ed957dc6965ed7f03c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685527867820,
+        "stop" : 1685527869044,
+        "duration" : 1224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "2: post store order",
+      "uid" : "4ca2edccbcd5ee04",
+      "parentUid" : "30f382429fe0c8ed957dc6965ed7f03c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685527869047,
+        "stop" : 1685527870061,
+        "duration" : 1014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "3: get by id",
+      "uid" : "4e93f122cd4b91c7",
+      "parentUid" : "30f382429fe0c8ed957dc6965ed7f03c",
+      "status" : "failed",
+      "time" : {
+        "start" : 1685527870067,
+        "stop" : 1685527871047,
+        "duration" : 980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test_cases.test_swagger_allure"
+  } ]
+}

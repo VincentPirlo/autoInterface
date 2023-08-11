@@ -1,0 +1,7 @@
+version:
+apiinface:
+  - /pet inventory:
+      description: returns pet inventories by status
+      method: get
+      # headers: {name: bianchengbang,url: www.biancheng.net}
+      url: /store/inventory

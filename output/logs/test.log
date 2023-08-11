@@ -1,0 +1,7 @@
+2023-05-29 15:12:15.981 DEBUG [connectionpool::_new_conn:1007] - Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 15:12:16.929 DEBUG [connectionpool::_make_request:465] - https://petstore3.swagger.io:443 "GET /api/v3/store/inventory HTTP/1.1" 200 43
+2023-05-29 15:12:16.931 INFO [test_swagger_allure::test_get_inventory:26] - GET https://petstore3.swagger.io/api/v3/store/inventory 200
+2023-05-29 15:12:16.939 DEBUG [connectionpool::_new_conn:1007] - Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 15:12:17.839 DEBUG [connectionpool::_make_request:465] - https://petstore3.swagger.io:443 "POST /api/v3/store/order HTTP/1.1" 200 116
+2023-05-29 15:12:17.851 DEBUG [connectionpool::_new_conn:1007] - Starting new HTTPS connection (1): petstore3.swagger.io:443
+2023-05-29 15:12:18.758 DEBUG [connectionpool::_make_request:465] - https://petstore3.swagger.io:443 "GET /api/v3/store/order/10 HTTP/1.1" 200 116

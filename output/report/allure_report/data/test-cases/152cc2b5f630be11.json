@@ -1,0 +1,163 @@
+{
+  "uid" : "152cc2b5f630be11",
+  "name" : "1: get inventory",
+  "fullName" : "test_cases.test_swagger_allure.TestSwagger#test_get_inventory",
+  "historyId" : "8743a3ef7c028a93f37ad4570800af1b",
+  "time" : {
+    "start" : 1685527867820,
+    "stop" : 1685527869044,
+    "duration" : 1224
+  },
+  "description" : "这是get inventory",
+  "descriptionHtml" : "<p>这是get inventory</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1685527867818,
+      "stop" : 1685527867819,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1685527867819,
+      "stop" : 1685527867819,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1685527867819,
+      "stop" : 1685527867819,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "delete_output_dir",
+    "time" : {
+      "start" : 1685527867819,
+      "stop" : 1685527867819,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "这是get inventory",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get inventory",
+      "time" : {
+        "start" : 1685527867820,
+        "stop" : 1685527869044,
+        "duration" : 1224
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1fef78693fee89a6",
+      "name" : "log",
+      "source" : "1fef78693fee89a6.txt",
+      "type" : "text/plain",
+      "size" : 349
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "feature",
+    "value" : "feature 1"
+  }, {
+    "name" : "story",
+    "value" : "story 1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_swagger_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSwagger"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-64CAT7Q"
+  }, {
+    "name" : "thread",
+    "value" : "12668-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_swagger_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "trivial",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "152cc2b5f630be11.json",
+  "parameterValues" : [ ]
+}

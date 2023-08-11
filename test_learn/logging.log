@@ -1,0 +1,6 @@
+[2023-05-29 12:17:30,678][MainThread:9012][task_id:root][tlog.py:8][INFO][hahaha]
+[2023-05-29 14:49:22,426][MainThread:3216][task_id:root][tlog.py:8][INFO][hahaha]
+[2023-05-29 14:53:30,987][MainThread:3328][task_id:root][tlog.py:8][INFO][hahaha]
+2023-05-29 14:56:57,562.562 [INFO] [tlog.py:8] hahaha
+2023-05-29 14:57:47,107.107 [INFO] [tlog.py::alog:8] hahaha
+2023-05-30 11:40:39,016.016 [INFO] [tlog.py::alog:8] hahaha
